@@ -31,7 +31,7 @@ Follow these instructions to get the project up and running on your local machin
 ### Installation
 
 1. Clone the repository: `git clone https://github.com/Micoonepoc/OpenTalk.git`
-2. Navigate to the project directory: `cd open-talk`
+2. Navigate to the project directory: `cd project-OpenTalk`
 
 ---
 

@@ -1,4 +1,3 @@
-OpenTalk
 
 Welcome to the OpenTalk repository! 
 

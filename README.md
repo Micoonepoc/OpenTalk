@@ -1,4 +1,4 @@
-# Project Name
+OpenTalk
 
 Welcome to the OpenTalk repository! 
 
@@ -8,7 +8,6 @@ Welcome to the OpenTalk repository!
 - [Used Technologies](#used-technologies)
 - [Getting Started](#getting-started)
   - [Installation](#installation)
-  - [Usage](#usage)
 
 ## Project Description
 

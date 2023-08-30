@@ -12,7 +12,7 @@ Welcome to the OpenTalk repository!
 
 ## Project Description
 
-OpenTalk is a social media mobile app that based on Twitter, design and functionality of the app was taken from Twitter. 
+OpenTalk is a social media mobile app that based on Twitter, design and functionality of the app was taken from Twitter. The app was developed to learn how to work with new technologies.
 
 ![OpenTalkPhoto](https://github.com/Micoonepoc/OpenTalk/assets/118993099/897fc3ec-2724-4cd1-8530-c3ef4beecc5e)
 

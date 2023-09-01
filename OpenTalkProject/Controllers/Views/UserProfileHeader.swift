@@ -1,9 +1,3 @@
-//
-//  UserProfileHeader.swift
-//  OpenTalkProject
-//
-//  Created by Михаил on 09.04.2023.
-//
 
 import UIKit
 

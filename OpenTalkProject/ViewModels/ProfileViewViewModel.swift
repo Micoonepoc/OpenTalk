@@ -1,9 +1,3 @@
-//
-//  ProfileViewViewModel.swift
-//  OpenTalkProject
-//
-//  Created by Михаил on 12.08.2023.
-//
 
 import Foundation
 import Combine

@@ -1,9 +1,3 @@
-//
-//  ProfileDataFormViewController.swift
-//  OpenTalkProject
-//
-//  Created by Михаил on 13.05.2023.
-//
 
 import UIKit
 import PhotosUI

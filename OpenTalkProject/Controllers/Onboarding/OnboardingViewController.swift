@@ -1,10 +1,3 @@
-//
-//  OnboardingViewController.swift
-//  OpenTalkProject
-//
-//  Created by Михаил on 22.04.2023.
-//
-
 import UIKit
 
 class OnboardingViewController: UIViewController {

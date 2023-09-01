@@ -1,9 +1,3 @@
-//
-//  ViewController.swift
-//  OpenTalkProject
-//
-//  Created by Михаил on 05.04.2023.
-//
 
 import UIKit
 
